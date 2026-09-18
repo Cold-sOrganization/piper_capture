@@ -1,0 +1,13 @@
+{
+  "date_relay": "2026-09-18T17:13:29+0800",
+  "source_snapshot_hashes_verified": {
+    "gos": 5,
+    "relay": 9
+  },
+  "relay_original_files_unchanged": true,
+  "offline_environment_recreated": true,
+  "unit_and_dataset_roundtrip_tests": 8,
+  "receiver_help_and_shell_syntax": "passed",
+  "runtime_compatibility": "GOS ARM64 Ubuntu20.04 Python3.8; relay x86_64 Ubuntu22.04 Python3.10",
+  "limitations": "No fresh OS installation or hardware service restart was performed; GOS system packages are listed but not bundled."
+}

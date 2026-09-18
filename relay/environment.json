@@ -1,0 +1,19 @@
+{
+  "created_at_relay": "2026-09-18T17:11:44+0800",
+  "source_directory": "/home/ccic/piper_capture",
+  "architecture": "x86_64",
+  "python": "Python 3.10.12",
+  "os_release": "PRETTY_NAME=\"Ubuntu 22.04.5 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"22.04\"\nVERSION=\"22.04.5 LTS (Jammy Jellyfish)\"\nVERSION_CODENAME=jammy\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=jammy\n",
+  "program_sha256": {
+    "receiver.py": "52842bc2bc10fb75f61148df7976237335f015af412b3bf270637e4135b15a8e",
+    "core.py": "0fbabe1af424b456a0c874edbf04ed50b31cf550f3e81c413ff66205732dbc59",
+    "export_lerobot.py": "2aadda8903519ae7c2412db80aefabb02be74eec397fbd1ca202b9e202edc5a7",
+    "review.py": "f5cec72b4b3f79e8fe789aa88d333bc41172db9438ba58135dd5e67202ed86c9",
+    "record.sh": "4a061cf40c123fad901adf2592c6b3aab9ef56f6f8be19dc02eeb69132a1c38e",
+    "README.md": "302baac3ace6d5ee33c8b99ea2f038c3bcaea00d458dfaca51e6aad777b76607",
+    "requirements-export.txt": "abac8c9e9d19d1fb1422c8528b535e04530a6dd1e72ce2eaa1f4cb67faef432e",
+    "relay-environment.freeze.txt": "ed5e1ba3c6e267fe40e020f7fc3476a5e1bff454010fa770e0e4921f6c9bed29",
+    "acceptance_summary.md": "08042719b0c8475894429c5ed62082177bd893bb4e33683f3c979f2c5176b0e6"
+  },
+  "system_packages": "openssh-client\t1:8.9p1-3ubuntu0.17\npython3\t3.10.6-1~22.04.1\npython3-paramiko\t2.9.3-0ubuntu1.2\npython3-venv\t3.10.6-1~22.04.1\n"
+}

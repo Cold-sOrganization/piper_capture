@@ -1,0 +1,7 @@
+{
+  "updated_at_relay": "2026-09-18T18:04:58+0800",
+  "change": "Added deployment guide for GOS with existing Piper and D435i drivers",
+  "source_snapshot_hashes_verified": true,
+  "hardware_retested": false,
+  "note": "Documentation only. GOS SSH was unreachable during this update; no live service was changed."
+}

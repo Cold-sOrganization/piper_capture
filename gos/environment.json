@@ -1,0 +1,15 @@
+{
+  "machine": "GOS",
+  "architecture": "aarch64",
+  "python": "Python 3.8.10",
+  "program_sha256": {
+    "collector.py": "1f92d0e361b37f4c3ff09b0d4ca57e423a38d739aef47cc7fcf4aba4d6ecdf7f",
+    "control.py": "3f23d4e5ef26bad8dd110bc9f5468bb4b73fb2bea306b247eee8c47e89ac8cce",
+    "core.py": "0fbabe1af424b456a0c874edbf04ed50b31cf550f3e81c413ff66205732dbc59",
+    "realsense_c.py": "8c1c8505527a44cdb9ddda5ec00bcc6468dca725727f4cffd95c44de8a1d0d01",
+    "start_gos.sh": "0024539e19ec521b166f5bdfc7d0d59770105f3e8f1370f0d2fd6f2750e59087"
+  },
+  "source_directory": "/home/user/piper_capture",
+  "os_release": "NAME=\"Ubuntu\"\nVERSION=\"20.04.6 LTS (Focal Fossa)\"\nID=ubuntu\nID_LIKE=debian\nPRETTY_NAME=\"Ubuntu 20.04.6 LTS\"\nVERSION_ID=\"20.04\"\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nVERSION_CODENAME=focal\nUBUNTU_CODENAME=focal\n",
+  "system_packages": "libstdc++6:arm64\t10.5.0-1ubuntu1~20.04\nlibudev1:arm64\t245.4-4ubuntu3.24\nlibusb-1.0-0:arm64\t2:1.0.23-2build1\npython3-numpy\t1:1.17.4-5ubuntu3.1\npython3-opencv\t4.2.0+dfsg-5\npython3-pil:arm64\t7.0.0-4ubuntu0.9\n"
+}

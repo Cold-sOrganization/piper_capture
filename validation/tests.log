@@ -1,0 +1,33 @@
+test_angle_gripper_and_incomplete_packet_are_not_metres (test_core.ProtocolTests) ... ok
+test_clock_freeze (test_core.ProtocolTests) ... ok
+test_invalid_and_time_gaps_split_episodes (test_core.ProtocolTests) ... ok
+test_missing_action_never_becomes_state (test_core.ProtocolTests) ... ok
+test_signed_angles_and_units (test_core.ProtocolTests) ... ok
+test_stale_future_and_joint_skew (test_core.ProtocolTests) ... ok
+test_corrupt_chunk_and_diagnostic_are_rejected (test_dataset_roundtrip.DatasetRoundtrip) ... ok
+test_official_loader_and_temporal_windows (test_dataset_roundtrip.DatasetRoundtrip) ... /home/ccic/piper_migration_20260918/.validation-venv/lib/python3.10/site-packages/datasets/features/features.py:549: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  return int(value)
+/home/ccic/piper_migration_20260918/.validation-venv/lib/python3.10/site-packages/datasets/features/features.py:551: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  return float(value)
+Map:   0%|          | 0/32 [00:00<?, ? examples/s]Map: 100%|██████████| 32/32 [00:00<00:00, 1534.29 examples/s]
+[libx264 @ 0x590f9ad28680] frame I:30    Avg QP:19.79  size:    35
+[libx264 @ 0x590f9ad28680] frame P:2     Avg QP:20.50  size:    22
+[libx264 @ 0x590f9ad28680] mb I  I16..4: 82.2% 17.8%  0.0%
+[libx264 @ 0x590f9ad28680] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0x590f9ad28680] 8x8 transform intra:17.8%
+[libx264 @ 0x590f9ad28680] coded y,uvDC,uvAC intra: 0.0% 8.9% 0.0% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0x590f9ad28680] i16 v,h,dc,p: 59%  0% 41%  0%
+[libx264 @ 0x590f9ad28680] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 100%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x590f9ad28680] i8c dc,h,v,p: 100%  0%  0%  0%
+[libx264 @ 0x590f9ad28680] Weighted P-Frames: Y:100.0% UV:100.0%
+[libx264 @ 0x590f9ad28680] kb/s:4.08
+/home/ccic/piper_migration_20260918/.validation-venv/lib/python3.10/site-packages/torchvision/io/_video_deprecation_warning.py:5: UserWarning: The video decoding and encoding capabilities of torchvision are deprecated from version 0.22 and will be removed in version 0.24. We recommend that you migrate to TorchCodec, where we'll consolidate the future decoding/encoding capabilities of PyTorch: https://github.com/pytorch/torchcodec
+  warnings.warn(
+/home/ccic/piper_migration_20260918/.validation-venv/lib/python3.10/site-packages/torchvision/io/_video_deprecation_warning.py:5: UserWarning: The video decoding and encoding capabilities of torchvision are deprecated from version 0.22 and will be removed in version 0.24. We recommend that you migrate to TorchCodec, where we'll consolidate the future decoding/encoding capabilities of PyTorch: https://github.com/pytorch/torchcodec
+  warnings.warn(
+ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.546s
+
+OK
