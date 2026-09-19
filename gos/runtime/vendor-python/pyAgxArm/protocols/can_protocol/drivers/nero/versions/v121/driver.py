@@ -57,3 +57,4 @@ class Driver(V120Driver):
     ) -> None:
         vel = vel if joint_index == 6 else -vel
         return super().move_cpv_vel(joint_index, vel)
+

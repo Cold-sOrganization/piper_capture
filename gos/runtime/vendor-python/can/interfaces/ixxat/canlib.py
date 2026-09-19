@@ -175,3 +175,4 @@ class IXXATBus(BusABC):
     @staticmethod
     def _detect_available_configs() -> List[AutoDetectedConfig]:
         return vcinpl._detect_available_configs()
+

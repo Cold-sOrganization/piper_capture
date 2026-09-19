@@ -95,3 +95,4 @@ class Parser(DefaultParser):
             self._codec.encode_151_mode_ctrl,
         )
         return tx_map
+

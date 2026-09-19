@@ -788,3 +788,4 @@ class PcanCanOperationError(CanOperationError, PcanError):
 
 class PcanCanInitializationError(CanInitializationError, PcanError):
     """Like :class:`can.exceptions.CanInitializationError`, but specific to Pcan."""
+

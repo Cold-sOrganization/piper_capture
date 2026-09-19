@@ -357,3 +357,4 @@ class Driver(DefaultDriver):
                 set_motor_current_pos_as_zero=0xAE,
             )
         )
+

@@ -63,3 +63,4 @@ class ArmMsgEndVelAccParamConfig(AttributeBase):
         self.end_max_angular_vel = end_max_angular_vel
         self.end_max_linear_acc = end_max_linear_acc
         self.end_max_angular_acc = end_max_angular_acc
+

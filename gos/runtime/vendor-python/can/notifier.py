@@ -184,3 +184,4 @@ class Notifier:
         :raises ValueError: if `listener` was never added to this notifier
         """
         self.listeners.remove(listener)
+

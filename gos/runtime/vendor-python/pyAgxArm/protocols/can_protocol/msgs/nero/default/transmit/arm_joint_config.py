@@ -77,3 +77,4 @@ class ArmMsgJointConfig(ArmMsgJointConfigBase):
                  max_joint_acc: int = 500,
                  clear_joint_err: Literal[0x00, 0xAE] = 0):
         super().__init__(joint_index, set_motor_current_pos_as_zero, acc_param_config_is_effective_or_not, max_joint_acc, clear_joint_err)
+

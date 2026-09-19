@@ -143,3 +143,4 @@ class FPSManager:
 
 #     finally:
 #         fps_counter.stop()
+

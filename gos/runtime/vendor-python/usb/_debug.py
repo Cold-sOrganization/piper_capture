@@ -77,3 +77,4 @@ def functiontrace(logger):
         _interop._update_wrapper(do_trace, f)
         return do_trace
     return decorator_logging
+

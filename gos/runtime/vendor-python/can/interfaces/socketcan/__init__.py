@@ -12,3 +12,4 @@ __all__ = [
 ]
 
 from .socketcan import CyclicSendTask, MultiRateCyclicSendTask, SocketcanBus
+

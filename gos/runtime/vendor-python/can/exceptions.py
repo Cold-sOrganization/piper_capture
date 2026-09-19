@@ -124,3 +124,4 @@ def error_check(
             raise exception_type(str(error)) from error
         else:
             raise exception_type(error_message) from error
+

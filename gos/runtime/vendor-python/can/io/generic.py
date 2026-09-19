@@ -128,3 +128,4 @@ class TextIOMessageReader(MessageReader, metaclass=ABCMeta):
 
 class BinaryIOMessageReader(MessageReader, metaclass=ABCMeta):
     file: Union[BinaryIO, gzip.GzipFile]
+

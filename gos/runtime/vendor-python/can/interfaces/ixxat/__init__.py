@@ -19,3 +19,4 @@ from can.interfaces.ixxat.canlib import IXXATBus
 
 # import this and not the one from vcinpl2 for backward compatibility
 from can.interfaces.ixxat.canlib_vcinpl import get_ixxat_hwids
+

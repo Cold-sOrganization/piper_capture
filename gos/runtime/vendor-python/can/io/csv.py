@@ -126,3 +126,4 @@ class CSVWriter(TextIOMessageWriter):
         )
         self.file.write(row)
         self.file.write("\n")
+

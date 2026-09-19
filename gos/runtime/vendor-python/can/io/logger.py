@@ -391,3 +391,4 @@ class SizedRotatingLogger(BaseRotatingLogger):
             + "".join(path.suffixes[-2:])
         )
         return str(path.parent / new_name)
+

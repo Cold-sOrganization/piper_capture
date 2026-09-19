@@ -1203,3 +1203,4 @@ def _oscillator_tolerance_condition_5(
         (2 * nbt - nom_phase_seg2) * nom_brp / data_brp + data_phase_seg2 + 4 * dbt
     )
     return max_correctable_phase_shift / time_between_resync
+

@@ -46,3 +46,4 @@ class MessageAbstract(Generic[T], MessageInterface, StrMixin):
     @msg.setter
     def msg(self, msg: T):
         self._msg = msg
+

@@ -48,3 +48,4 @@ class ArmMsgCircularPatternCoordNumUpdateCtrl(AttributeBase):
         if instruction_num not in [0x00, 0x01, 0x02, 0x03]:
             raise ValueError(f"'instruction_num' Value {instruction_num} out of range [0x00, 0x01, 0x02, 0x03]")
         self.instruction_num = instruction_num
+

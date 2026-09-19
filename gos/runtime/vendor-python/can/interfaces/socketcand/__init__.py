@@ -12,3 +12,4 @@ __all__ = [
 ]
 
 from .socketcand import SocketCanDaemonBus
+

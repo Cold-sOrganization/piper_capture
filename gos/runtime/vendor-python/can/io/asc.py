@@ -474,3 +474,4 @@ class ASCWriter(TextIOMessageWriter):
                 data=" ".join(data),
             )
         self.log_event(serialized, msg.timestamp)
+

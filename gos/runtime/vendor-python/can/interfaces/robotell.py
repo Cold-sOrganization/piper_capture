@@ -402,3 +402,4 @@ class robotellBus(BusABC):
         for idx in range(0, 4, 2):
             serial += f"{sn2[idx]:02X}{sn2[idx + 1]:02X}-"
         return serial[:-1]
+

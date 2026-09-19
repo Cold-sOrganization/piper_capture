@@ -26,3 +26,4 @@ class StrMixin:
         # 只打印 _ 开头的属性
         attrs = [f"{k[1:]}: {v}" for k, v in self.__dict__.items() if k.startswith("_")]
         return "\n".join(attrs)
+

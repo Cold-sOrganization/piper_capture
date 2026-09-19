@@ -793,3 +793,4 @@ def get_channel_info(channel):
 
 
 init_kvaser_library()
+

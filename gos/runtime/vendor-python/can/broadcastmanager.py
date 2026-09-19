@@ -332,3 +332,4 @@ class ThreadBasedCyclicSendTask(
                 delay_ns = msg_due_time_ns - time.perf_counter_ns()
                 if delay_ns > 0:
                     time.sleep(delay_ns / NANOSECONDS_IN_SECOND)
+

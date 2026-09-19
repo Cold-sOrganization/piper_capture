@@ -100,3 +100,4 @@ class ArmMsgLeaderFollowerModeConfig(AttributeBase):
         self.feedback_offset = feedback_offset
         self.ctrl_offset = ctrl_offset
         self.linkage_offset = linkage_offset
+

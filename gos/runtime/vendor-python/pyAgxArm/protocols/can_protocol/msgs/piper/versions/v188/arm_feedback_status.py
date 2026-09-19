@@ -34,3 +34,4 @@ class ArmMsgFeedbackStatusV188(ArmMsgFeedbackStatus):
             self._mode_feedback = value
         else:
             self._mode_feedback = ArmMsgFeedbackStatusEnumV188.ModeFeedback.match_value(value)
+

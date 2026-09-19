@@ -25,3 +25,4 @@ class CommAbstract(CommInterface):
         """Trigger the registered callback if one is available."""
         if self._cb:
             self._cb(data)
+

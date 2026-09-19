@@ -88,3 +88,4 @@ class ArmMsgFeedbackCrashProtectionRating(ArmMsgFeedbackCrashProtectionRatingBas
     def clear(self):
         super().clear()
         self.joint_7 = None
+

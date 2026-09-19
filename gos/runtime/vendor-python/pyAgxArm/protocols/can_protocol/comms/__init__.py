@@ -12,3 +12,4 @@ __all__ = [
     'Can20CanfdRx',
     'CanFdMessage',
 ]
+

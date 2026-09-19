@@ -349,3 +349,4 @@ class NiXNETcanBus(BusABC):
             logger.debug("An error occured while searching for configs: %s", str(error))
 
         return configs  # type: ignore
+

@@ -1131,3 +1131,4 @@ class Driver:
             return None
         self._active_side = _hand_for_device_id(found)
         return found
+

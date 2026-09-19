@@ -76,3 +76,4 @@ class ArmMsgFeedbackEndPoseRYRZ(AttributeBase):
                  RZ_axis: Union[int, float] = 0):
         self.RY_axis = RY_axis
         self.RZ_axis = RZ_axis
+

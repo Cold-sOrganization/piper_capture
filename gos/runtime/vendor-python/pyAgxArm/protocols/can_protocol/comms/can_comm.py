@@ -254,3 +254,4 @@ class CanCommImpl(CanCommBase):
                 "[WARN] CAN port %s bitrate is %s bps, expected %s bps."
                 % (self._channel, actual_bitrate, self._bitrate)
             )
+

@@ -8,3 +8,4 @@ if [ -e "$env_dir" ]; then echo "Refusing existing environment: $env_dir" >&2; e
 /usr/bin/python3 -m venv "$env_dir"
 "$env_dir/bin/python" -m pip install --no-index --no-deps "$bundle_root"/relay/wheels/*.whl
 "$env_dir/bin/python" -c 'from lerobot.datasets.lerobot_dataset import LeRobotDataset; import av, numpy, torch; print("Export imports OK", numpy.__version__, torch.__version__, av.__version__)'
+

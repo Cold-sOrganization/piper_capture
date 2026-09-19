@@ -139,3 +139,4 @@ def transient_function_wrapper(module, name):
             return FunctionWrapper(target_wrapped, _execute)
         return FunctionWrapper(wrapper, _wrapper)
     return _decorator
+

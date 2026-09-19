@@ -165,3 +165,4 @@ class ArmMsgModeCtrl(AttributeBase):
         self.mit_mode = mit_mode
         self.residence_time = residence_time
         self.installation_pos = installation_pos
+

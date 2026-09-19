@@ -78,3 +78,4 @@ class ArmMsgFeedbackAllCurrentMotorAngleLimitMaxSpd(AttributeBase):
             raise ValueError(f"'joint_index' Value {joint_index} out of range {self._VALID_JOINT_INDEX}")
         self.joints: List[ArmMsgFeedbackCurrentMotorAngleLimitMaxSpd] = [ArmMsgFeedbackCurrentMotorAngleLimitMaxSpd(joint_index=i) for i in self._VALID_JOINT_INDEX[1:]]
         self.joint_index = joint_index
+

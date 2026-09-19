@@ -178,3 +178,4 @@ class AsyncBufferedReader(
 
     async def __anext__(self) -> Message:
         return await self.buffer.get()
+

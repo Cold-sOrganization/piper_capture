@@ -25,3 +25,4 @@
 本地也保存了 `acceptance_report.json`、`acceptance_review.html` 和图像抽查 `acceptance_color.png`。
 
 验收数据仅用于确认采集和格式链路；不等同于完成了一个具体操作任务的数据集。
+

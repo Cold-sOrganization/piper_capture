@@ -42,3 +42,4 @@ class VCIBusOffError(VCIError):
 
 class VCIDeviceNotFoundError(CanInitializationError):
     pass
+

@@ -43,3 +43,4 @@ class CanCommBase(CommAbstract):
 
     def recv(self, **kwargs) -> Optional[Message]:
         raise NotImplementedError
+

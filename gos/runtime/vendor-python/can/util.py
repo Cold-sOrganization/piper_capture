@@ -514,3 +514,4 @@ if __name__ == "__main__":
     print()
     print("Settings:")
     print(load_config())
+

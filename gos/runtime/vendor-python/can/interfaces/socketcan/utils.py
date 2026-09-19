@@ -82,3 +82,4 @@ def error_code_to_str(code: Optional[int]) -> str:
     description = os.strerror(code) if code is not None else "NO DESCRIPTION AVAILABLE"
 
     return f"{name} (errno {code}): {description}"
+

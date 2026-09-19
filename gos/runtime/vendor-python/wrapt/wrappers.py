@@ -782,3 +782,4 @@ class FunctionWrapper(_FunctionWrapperBase):
 
         super(FunctionWrapper, self).__init__(wrapped, None, wrapper,
                 enabled, binding)
+

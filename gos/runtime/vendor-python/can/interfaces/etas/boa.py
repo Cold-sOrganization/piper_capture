@@ -696,3 +696,4 @@ OCI_ReadCANDataEx.argtypes = [
 ]
 OCI_ReadCANDataEx.restype = OCI_ErrorCode
 OCI_ReadCANDataEx.errcheck = errcheck_oper
+

@@ -190,3 +190,4 @@ class MockInterface:
     channel_count = Mock(return_value=1)
 
     recv = Mock(side_effect=mock_recv)
+

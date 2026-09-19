@@ -949,3 +949,4 @@ class Packer:
             return memoryview(self.bytes())
         else:
             return self._buffer.getbuffer()
+

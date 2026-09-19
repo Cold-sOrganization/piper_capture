@@ -820,3 +820,4 @@ class Metadata:
     """``Provides`` (deprecated)"""
     obsoletes: _Validator[List[str]] = _Validator(added="1.1")
     """``Obsoletes`` (deprecated)"""
+

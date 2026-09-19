@@ -116,3 +116,4 @@ def resolve_firmware_profile(robot: str, firmware_version: str) -> str:
         return NeroFW.DEFAULT
 
     raise ValueError("Unsupported robot model: {!r}".format(robot))
+

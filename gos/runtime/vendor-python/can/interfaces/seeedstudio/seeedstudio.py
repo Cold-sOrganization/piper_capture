@@ -310,3 +310,4 @@ class SeeedBus(BusABC):
                 "fileno is not implemented using current CAN bus: %s", str(excption)
             )
             return -1
+

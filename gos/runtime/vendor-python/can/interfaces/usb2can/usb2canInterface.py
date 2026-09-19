@@ -189,3 +189,4 @@ class Usb2canBus(BusABC):
             channels = find_serial_devices(serial_matcher)
 
         return [{"interface": "usb2can", "channel": c} for c in channels]
+

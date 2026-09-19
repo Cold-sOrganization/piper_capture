@@ -66,3 +66,4 @@ class ArmMsgEndPoseCtrlRYRZ(AttributeBase):
                  ):
         self.RY_axis = RY_axis
         self.RZ_axis = RZ_axis
+

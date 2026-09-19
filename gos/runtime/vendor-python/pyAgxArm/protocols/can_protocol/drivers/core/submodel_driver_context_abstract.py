@@ -39,3 +39,4 @@ class SubmodelDriverContextAbstract(SubmodelDriverContextInterface):
                     self._is_ok = False
             else:
                 self._is_ok = True
+

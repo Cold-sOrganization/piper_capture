@@ -249,3 +249,4 @@ class AgxArmFactory:
         """
         arm_cls: Type[T] = cls.load_class(config)
         return arm_cls(config=config, **kwargs)
+

@@ -8,3 +8,4 @@ __all__ = [
 ]
 
 from can.interfaces.systec.ucanbus import UcanBus
+

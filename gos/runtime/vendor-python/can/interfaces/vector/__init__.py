@@ -27,3 +27,4 @@ from .canlib import (
     get_channel_configs,
 )
 from .exceptions import VectorError, VectorInitializationError, VectorOperationError
+

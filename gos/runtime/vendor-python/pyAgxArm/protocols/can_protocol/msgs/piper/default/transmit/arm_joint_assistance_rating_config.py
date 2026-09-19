@@ -47,3 +47,4 @@ class ArmMsgJointAssistanceRatingConfig(AttributeBase):
         self.joint_4 = joint_4
         self.joint_5 = joint_5
         self.joint_6 = joint_6
+

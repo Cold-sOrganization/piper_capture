@@ -59,3 +59,4 @@ def find_serial_devices(serial_matcher: str = "") -> List[str]:
     if serial_matcher:
         return [sn for sn in serial_numbers if serial_matcher in sn]
     return serial_numbers
+

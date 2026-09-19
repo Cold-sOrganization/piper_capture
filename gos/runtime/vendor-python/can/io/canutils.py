@@ -195,3 +195,4 @@ class CanutilsLogWriter(TextIOMessageWriter):
             framestr += f"{msg.data.hex().upper()}{eol}"
 
         self.file.write(framestr)
+

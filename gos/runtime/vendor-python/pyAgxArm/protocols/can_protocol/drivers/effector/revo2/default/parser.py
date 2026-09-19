@@ -172,3 +172,4 @@ class Parser(TableDriven, ProtocolParserInterface):
                 self._codec.encode_1B5_finget_pos_time_ctrl
             ),
         }
+

@@ -69,3 +69,4 @@ class ArmMsgJointMitCtrl7(ArmMsgJointMitCtrl):
     '''CAN ID:
         0x160'''
     pass
+

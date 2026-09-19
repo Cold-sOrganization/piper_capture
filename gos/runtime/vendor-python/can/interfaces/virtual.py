@@ -196,3 +196,4 @@ class VirtualBus(BusABC):
             {"interface": "virtual", "channel": channel}
             for channel in available_channels
         ]
+

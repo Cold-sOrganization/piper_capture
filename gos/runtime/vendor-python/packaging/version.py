@@ -561,3 +561,4 @@ def _cmpkey(
         )
 
     return epoch, _release, _pre, _post, _dev, _local
+

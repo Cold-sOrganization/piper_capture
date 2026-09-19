@@ -1006,3 +1006,4 @@ class SpecifierSet(BaseSpecifier):
                 return iter(found_prereleases)
 
             return iter(filtered)
+

@@ -74,3 +74,4 @@ class LinuxSocketCanSystemInfo(CanSystemInfoBase):
             return f"CAN port {channel}: State={state}, Type={port_type}"
         except FileNotFoundError:
             return f"CAN port {channel} not found."
+

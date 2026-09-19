@@ -291,3 +291,4 @@ class XLdriverConfig(ctypes.Structure):
         ("reserved", ctypes.c_uint * 10),
         ("channel", XLchannelConfig * 64),
     ]
+

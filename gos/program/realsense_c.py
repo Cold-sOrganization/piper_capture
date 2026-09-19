@@ -156,3 +156,4 @@ class RealSense:
         self.lib.rs2_delete_config(self.config)
         self.lib.rs2_delete_pipeline(self.pipe)
         self.lib.rs2_delete_context(self.ctx)
+

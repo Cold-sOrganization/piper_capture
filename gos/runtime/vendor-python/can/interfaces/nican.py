@@ -377,3 +377,4 @@ class NicanBus(BusABC):
         """Close object."""
         super().shutdown()
         nican.ncCloseObject(self.handle)
+

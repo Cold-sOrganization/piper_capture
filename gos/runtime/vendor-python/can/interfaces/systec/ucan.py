@@ -1166,3 +1166,4 @@ class UcanServer:
 
 
 UcanServer._enum_callback_ref = EnumCallback(UcanServer._enum_callback)
+

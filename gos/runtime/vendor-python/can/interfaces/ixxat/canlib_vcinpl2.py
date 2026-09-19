@@ -1062,3 +1062,4 @@ def get_ixxat_hwids():
     _canlib.vciEnumDeviceClose(device_handle)
 
     return hwids
+

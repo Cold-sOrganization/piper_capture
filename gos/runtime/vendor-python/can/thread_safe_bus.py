@@ -94,3 +94,4 @@ class ThreadSafeBus(ObjectProxy):  # pylint: disable=abstract-method
     def state(self, new_state):
         with self._lock_send, self._lock_recv:
             self.__wrapped__.state = new_state
+

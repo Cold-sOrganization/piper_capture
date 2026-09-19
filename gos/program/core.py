@@ -105,3 +105,4 @@ class DeviceClock:
         if self.offset_ns is None or (not self.frozen and candidate < self.offset_ns):
             self.offset_ns = candidate
         return value + self.offset_ns
+

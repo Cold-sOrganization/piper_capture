@@ -40,3 +40,4 @@ class ArmMsgLeaderArmMoveToHome(AttributeBase):
             raise ValueError(f"'mode' Value {mode} out of range [0, 1, 2]")
         self.mode = mode
 
+

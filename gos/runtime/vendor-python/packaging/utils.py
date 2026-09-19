@@ -170,3 +170,4 @@ def parse_sdist_filename(filename: str) -> Tuple[NormalizedName, Version]:
         ) from e
 
     return (name, version)
+

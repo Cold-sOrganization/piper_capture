@@ -59,3 +59,4 @@ class CommInterface(ABC):
     @abstractmethod
     def has_callback(self) -> bool:
         ...
+

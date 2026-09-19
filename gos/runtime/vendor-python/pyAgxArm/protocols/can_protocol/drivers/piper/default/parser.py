@@ -1056,3 +1056,4 @@ class Parser(TableDriven, ProtocolParserInterface):
                 self._codec.encode_4AF_req_firmware
             ),
         }
+

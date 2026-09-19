@@ -53,3 +53,4 @@ class ArmMsgGripperTeachingPendantParamConfig(AttributeBase):
 
 
 __all__ = ["ArmMsgGripperTeachingPendantParamConfig"]
+

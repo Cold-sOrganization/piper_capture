@@ -253,3 +253,4 @@ class GsUsb:
         if gs_usb:
             return GsUsb(gs_usb)
         return None
+
