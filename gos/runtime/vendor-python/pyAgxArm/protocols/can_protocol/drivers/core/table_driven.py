@@ -65,4 +65,3 @@ class TableDriven:
 
         can_id, encoder = spec
         return can.Message(is_extended_id=False, arbitration_id=can_id, data=encoder(msg))
-

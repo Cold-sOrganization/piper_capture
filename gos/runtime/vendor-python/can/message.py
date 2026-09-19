@@ -330,4 +330,3 @@ class Message:  # pylint: disable=too-many-instance-attributes; OK for a datacla
                 and self.error_state_indicator == other.error_state_indicator
             )
         )
-

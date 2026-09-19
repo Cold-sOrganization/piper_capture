@@ -48,4 +48,3 @@ class CommsFactory:
 
         cls_type: Type[T] = cls._registry[type][version]
         return cls_type(**kwargs)
-

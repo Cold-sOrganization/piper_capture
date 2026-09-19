@@ -655,4 +655,3 @@ class VersionType(BYTE):
     VER_TYPE_SYS_L5 = 9
     #: version of USBCANCP.CPL
     VER_TYPE_CPL = 10
-

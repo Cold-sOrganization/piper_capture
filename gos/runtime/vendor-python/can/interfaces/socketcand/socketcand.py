@@ -229,4 +229,3 @@ class SocketCanDaemonBus(can.BusABC):
         """Stops all active periodic tasks and closes the socket."""
         super().shutdown()
         self.__socket.close()
-

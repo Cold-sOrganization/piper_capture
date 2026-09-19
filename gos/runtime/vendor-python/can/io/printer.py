@@ -53,4 +53,3 @@ class Printer(MessageWriter):
         if self.file is not None:
             return self.file.tell()
         return 0
-

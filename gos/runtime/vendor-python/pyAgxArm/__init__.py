@@ -11,4 +11,3 @@ __all__ = [
     'resolve_firmware_profile',
     '__version__',
 ]
-

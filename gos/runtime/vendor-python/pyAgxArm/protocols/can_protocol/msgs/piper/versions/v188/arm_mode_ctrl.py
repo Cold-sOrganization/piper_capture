@@ -19,4 +19,3 @@ class ArmMsgModeCtrlV188(ArmMsgModeCtrl):
             MIT = 0x06
             CPV = 0x05
             UNKNOWN = 0xFF
-

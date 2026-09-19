@@ -113,4 +113,3 @@ class Driver(V112Driver):
             timeout=timeout,
             min_interval=min_interval,
         )
-

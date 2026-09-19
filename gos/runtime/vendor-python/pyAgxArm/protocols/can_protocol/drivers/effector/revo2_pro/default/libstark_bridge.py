@@ -175,4 +175,3 @@ class LibStarkBridge:
         if got is None:
             return 0, bytes([])
         return got.arbitration_id, got.data
-

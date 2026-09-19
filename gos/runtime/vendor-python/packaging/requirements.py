@@ -88,4 +88,3 @@ class Requirement:
             and self.url == other.url
             and self.marker == other.marker
         )
-

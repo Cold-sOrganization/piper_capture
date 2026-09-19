@@ -46,4 +46,3 @@ class ExtraData(UnpackValueError):
 PackException = Exception
 PackValueError = ValueError
 PackOverflowError = OverflowError
-

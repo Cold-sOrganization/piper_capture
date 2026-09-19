@@ -90,4 +90,3 @@ class HANDLE(ctypes.c_void_p):
 
 
 PHANDLE = ctypes.POINTER(HANDLE)
-

@@ -328,4 +328,3 @@ class XL_SyncPulseSource(IntEnum):
     XL_SYNC_PULSE_EXTERNAL = 0
     XL_SYNC_PULSE_OUR = 1
     XL_SYNC_PULSE_OUR_SHARED = 2
-

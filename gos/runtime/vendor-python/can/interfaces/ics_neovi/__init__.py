@@ -10,4 +10,3 @@ __all__ = [
 ]
 
 from .neovi_bus import ICSApiError, ICSInitializationError, ICSOperationError, NeoViBus
-

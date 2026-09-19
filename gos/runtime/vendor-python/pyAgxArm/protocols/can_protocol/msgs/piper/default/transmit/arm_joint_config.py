@@ -93,4 +93,3 @@ class ArmMsgJointConfig(AttributeBase):
         self.acc_param_config_is_effective_or_not = acc_param_config_is_effective_or_not
         self.max_joint_acc = max_joint_acc
         self.clear_joint_err = clear_joint_err
-

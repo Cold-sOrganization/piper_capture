@@ -411,4 +411,3 @@ class TRCWriter(TextIOMessageWriter):
             serialized = self._format_message(msg, channel)
             self.msgnr += 1
         self.log_event(serialized, msg.timestamp)
-

@@ -158,4 +158,3 @@ class Parser(TableDriven, ProtocolParserInterface):
                 self._codec.encode_47D_gripper_teaching_pendant_param_config,
             ),
         }
-

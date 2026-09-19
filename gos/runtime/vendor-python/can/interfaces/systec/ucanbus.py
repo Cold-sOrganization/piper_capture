@@ -330,4 +330,3 @@ class UcanBus(BusABC):
             self._ucan.shutdown()
         except Exception as exception:
             log.error(exception)
-

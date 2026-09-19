@@ -172,4 +172,3 @@ class Driver(DefaultDriver):
 
         self._maybe_set_motion_mode('mit')
         self._send_msg(msg)
-

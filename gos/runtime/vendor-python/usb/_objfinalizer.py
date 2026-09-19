@@ -155,4 +155,3 @@ else:
         def finalize(self):
             """Finalizes the object if not already done."""
             self._do_finalize_object()
-

@@ -335,4 +335,3 @@ class DriverContext:
             self._tx_last_payload[frame.arbitration_id] = payload
             self._tx_last_stamp[frame.arbitration_id] = now
             return True
-

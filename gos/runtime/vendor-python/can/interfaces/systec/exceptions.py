@@ -105,4 +105,3 @@ class UcanWarning(UcanException):
     @property
     def _error_message_mapping(self) -> Dict[ReturnCode, str]:
         return UcanWarning._ERROR_MESSAGES
-

@@ -190,4 +190,3 @@ def load_locate_library(candidates, cygwin_lib, name,
             return loaded_lib
     else:
         return loaded_lib
-

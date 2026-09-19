@@ -77,4 +77,3 @@ class ArmMsgCPVSettingsAndQueries5(ArmMsgCPVSettingsAndQueries):
 class ArmMsgCPVSettingsAndQueries6(ArmMsgCPVSettingsAndQueries):
     '''CAN ID:
         0x186'''
-

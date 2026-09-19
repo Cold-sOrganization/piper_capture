@@ -68,4 +68,3 @@ __all__ = [
     'ArmMsgCPVSettingsAndQueries5',
     'ArmMsgCPVSettingsAndQueries6',
 ]
-

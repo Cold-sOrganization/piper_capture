@@ -166,4 +166,3 @@ class Timestamp:
         :rtype: Timestamp
         """
         return Timestamp.from_unix(dt.timestamp())
-

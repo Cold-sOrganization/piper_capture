@@ -215,4 +215,3 @@ class IscanOperationError(IscanError, CanOperationError):
 
 class IscanInitializationError(IscanError, CanInitializationError):
     pass
-

@@ -67,4 +67,3 @@ class NeroFW:
     V112: Final[Literal["v112"]] = "v112"
     V120: Final[Literal["v120"]] = "v120"
     V121: Final[Literal["v121"]] = "v121"
-

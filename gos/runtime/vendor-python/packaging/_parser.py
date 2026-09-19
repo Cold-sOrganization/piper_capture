@@ -357,4 +357,3 @@ def _parse_marker_op(tokenizer: Tokenizer) -> Op:
             "Expected marker operator, one of "
             "<=, <, !=, ==, >=, >, ~=, ===, in, not in"
         )
-

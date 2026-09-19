@@ -12,4 +12,3 @@ __all__ = [
 ]
 
 from can.interfaces.kvaser.canlib import *
-

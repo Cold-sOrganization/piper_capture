@@ -25,4 +25,3 @@ class CommsFactory:
         version: str = ...,
         **kwargs
     ) -> CanCommBase: ...
-

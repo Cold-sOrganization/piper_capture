@@ -117,4 +117,3 @@ HF_HUB_OFFLINE=1 .venv/bin/python -m unittest discover -s tests -v
 ```
 
 协议测试覆盖单位、符号、缺失动作、过期数据、未来数据、关节报文不同步、时间间断。数据集测试使用临时且明确标记为 `SYNTHETIC_TEST_ONLY` 的数据，验证官方写入/加载、视频解码、动作时间窗口、深度无损和损坏文件拒绝。此测试不能替代真实示教验收。
-

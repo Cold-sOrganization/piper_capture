@@ -5,4 +5,3 @@ from .api import PiperFW as PiperFW
 from .api import NeroFW as NeroFW
 from .api import resolve_firmware_profile as resolve_firmware_profile
 from .version import __version__ as __version__
-

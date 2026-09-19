@@ -528,4 +528,3 @@ class AgxArmFactory:
     def create_arm(cls, config: PiperXCanV189Config, **kwargs) -> PiperXDriverV189:
         """PiperX CAN driver for firmware >= v189 (S-V1.8-9)."""
         ...
-

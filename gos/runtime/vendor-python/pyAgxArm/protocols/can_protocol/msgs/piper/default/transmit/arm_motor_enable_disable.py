@@ -64,4 +64,3 @@ class ArmMsgMotorEnableDisableConfig(AttributeBase):
             joint_index = self._VALID_JOINT_INDEX[-2]
         self.joint_index = joint_index
         self.enable_flag = enable_flag
-

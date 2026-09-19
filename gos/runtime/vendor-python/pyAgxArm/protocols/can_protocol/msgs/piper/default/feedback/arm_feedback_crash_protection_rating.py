@@ -93,4 +93,3 @@ class ArmMsgFeedbackCrashProtectionRating(AttributeBase):
         self.joint_4 = None
         self.joint_5 = None
         self.joint_6 = None
-

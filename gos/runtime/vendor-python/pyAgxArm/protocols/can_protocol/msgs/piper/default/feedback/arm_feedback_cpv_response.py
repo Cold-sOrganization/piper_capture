@@ -73,4 +73,3 @@ class ArmMsgFeedbackCPVResponse5(ArmMsgFeedbackCPVResponse):
 class ArmMsgFeedbackCPVResponse6(ArmMsgFeedbackCPVResponse):
     '''CAN ID:
         0x186'''
-

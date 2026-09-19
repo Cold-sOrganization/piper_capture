@@ -74,4 +74,3 @@ class ArmMsgFeedbackCurrentEndVelAccParam(AttributeBase):
         self.end_max_angular_vel = None
         self.end_max_linear_acc = None
         self.end_max_angular_acc = None
-

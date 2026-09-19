@@ -231,4 +231,3 @@ class SerialBus(BusABC):
         return [
             {"interface": "serial", "channel": port.device} for port in list_comports()
         ]
-

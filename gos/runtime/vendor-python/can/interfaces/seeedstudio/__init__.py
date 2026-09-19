@@ -7,4 +7,3 @@ __all__ = [
 ]
 
 from can.interfaces.seeedstudio.seeedstudio import SeeedBus
-

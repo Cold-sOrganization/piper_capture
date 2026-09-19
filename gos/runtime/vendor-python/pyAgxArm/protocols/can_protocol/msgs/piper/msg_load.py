@@ -82,4 +82,3 @@ def load_msgs(
     _load_category(f"{base}.transmit", msgs.transmit)
 
     return msgs
-

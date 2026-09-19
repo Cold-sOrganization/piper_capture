@@ -321,4 +321,3 @@ class slcanBus(BusABC):
             return serial_number
 
         return None
-

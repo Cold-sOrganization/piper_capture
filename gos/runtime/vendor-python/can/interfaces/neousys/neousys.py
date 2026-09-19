@@ -241,4 +241,3 @@ class NeousysBus(BusABC):
     def _detect_available_configs():
         # There is only one channel
         return [{"interface": "neousys", "channel": 0}]
-

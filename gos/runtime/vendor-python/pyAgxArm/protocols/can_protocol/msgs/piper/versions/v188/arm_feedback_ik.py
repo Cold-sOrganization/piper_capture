@@ -80,4 +80,3 @@ class ArmMsgFeedbackIKJointStates56(AttributeBase):
                  joint_6: Union[int, float] = 0):
         self.joint_5 = joint_5
         self.joint_6 = joint_6
-

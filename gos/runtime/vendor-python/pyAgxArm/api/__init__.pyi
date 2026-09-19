@@ -4,4 +4,3 @@ from .arm_options import ArmModel as ArmModel
 from .arm_options import PiperFW as PiperFW
 from .arm_options import NeroFW as NeroFW
 from .firmware import resolve_firmware_profile as resolve_firmware_profile
-

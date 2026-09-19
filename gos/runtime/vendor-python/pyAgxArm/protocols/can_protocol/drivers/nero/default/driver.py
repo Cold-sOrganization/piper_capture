@@ -1946,4 +1946,3 @@ class Driver(ArmDriverAbstract):
             stamp_key=f"set_crash_protection_rating:{joint_index}",
         )
 
-

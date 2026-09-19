@@ -6,4 +6,3 @@ from ....piper.default import ArmMsgFeedbackCPVResponse
 class ArmMsgFeedbackCPVResponse7(ArmMsgFeedbackCPVResponse):
     '''CAN ID:
         0x187'''
-

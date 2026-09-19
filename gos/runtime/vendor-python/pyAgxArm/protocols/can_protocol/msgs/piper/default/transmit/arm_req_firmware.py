@@ -6,4 +6,3 @@ class ArmMsgReqFirmware(AttributeBase):
     '''CAN ID:
         0x4AF'''
     pass
-

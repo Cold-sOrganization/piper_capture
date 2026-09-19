@@ -248,4 +248,3 @@ class SqliteWriter(MessageWriter, BufferedReader):
         self._stop_running_event.set()
         self._writer_thread.join()
         MessageReader.stop(self)
-

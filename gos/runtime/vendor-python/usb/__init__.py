@@ -108,4 +108,3 @@ _setup_log()
 # We import all 'legacy' module symbols to provide compatibility
 # with applications that use 0.x versions.
 from usb.legacy import *
-

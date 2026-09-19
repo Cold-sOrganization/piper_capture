@@ -250,4 +250,3 @@ class Marker:
                 current_environment["extra"] = ""
 
         return _evaluate_markers(self._markers, current_environment)
-

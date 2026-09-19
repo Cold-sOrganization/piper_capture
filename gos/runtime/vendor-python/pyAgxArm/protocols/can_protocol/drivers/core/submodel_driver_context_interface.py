@@ -17,4 +17,3 @@ class SubmodelDriverContextInterface():
     @abstractmethod
     def fps_monitor(self):
         ...
-

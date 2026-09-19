@@ -319,4 +319,3 @@ class Parser(PiperParser):
             }
         )
         return tx
-

@@ -174,4 +174,3 @@ class MessageSync:
                 time.sleep(sleep_period)
 
             yield message
-

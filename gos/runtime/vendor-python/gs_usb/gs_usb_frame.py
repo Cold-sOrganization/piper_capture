@@ -81,4 +81,3 @@ class GsUsbFrame:
                 frame.echo_id, frame.can_id, frame.can_dlc, frame.channel,
                 frame.flags, frame.reserved, *frame.data,
             ) = unpack("<2I12B", data)
-

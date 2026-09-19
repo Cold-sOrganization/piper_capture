@@ -754,4 +754,3 @@ def get_backend(find_library=None):
     except Exception:
         _logger.error('Error loading OpenUSB backend', exc_info=True)
         return None
-

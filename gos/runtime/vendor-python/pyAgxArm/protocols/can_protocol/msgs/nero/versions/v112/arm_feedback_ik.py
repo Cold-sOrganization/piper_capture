@@ -92,4 +92,3 @@ class ArmMsgFeedbackIKJointStates7(AttributeBase):
     def __init__(self,
                  joint_7: Union[int, float] = 0):
         self.joint_7 = joint_7
-

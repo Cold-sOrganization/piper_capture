@@ -20,4 +20,3 @@ def load_msgs(
     arm: str,
     version: Optional[str] = None,
 ) -> MsgBundle: ...
-

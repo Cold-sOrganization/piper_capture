@@ -551,4 +551,3 @@ def sys_tags(*, warn: bool = False) -> Iterator[Tag]:
     else:
         interp = None
     yield from compatible_tags(interpreter=interp)
-

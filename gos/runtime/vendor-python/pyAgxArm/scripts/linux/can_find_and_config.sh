@@ -70,4 +70,3 @@ if [ "$TIMED_OUT" = "true" ]; then
     echo "未能在规定时间内找到 CAN 设备，脚本退出。"
     exit 1
 fi
-

@@ -320,4 +320,3 @@ class EtasBus(can.BusABC):
         CSI_DestroyProtocolTree(tree)
 
         return nodes
-

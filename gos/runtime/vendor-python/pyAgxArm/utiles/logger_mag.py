@@ -263,4 +263,3 @@ class LoggerManager:
 # logger.error(f"'This is a message from SubModule222222.',{a}")
 # LogManager.clear_log_files()
 
-

@@ -137,4 +137,3 @@ class ArmMsgParamEnquiryAndConfig(AttributeBase):
         self.data_feedback_0x48x = data_feedback_0x48x
         self.end_load_param_setting_effective = end_load_param_setting_effective
         self.set_end_load = set_end_load
-

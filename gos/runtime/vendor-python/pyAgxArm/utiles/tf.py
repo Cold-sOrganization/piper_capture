@@ -446,4 +446,3 @@ def T16_to_pose6(t: List[float]) -> List[float]:
         t[0], t[1], t[2], t[4], t[5], t[6], t[8], t[9], t[10]
     )
     return [x, y, z, rpy[0], rpy[1], rpy[2]]
-

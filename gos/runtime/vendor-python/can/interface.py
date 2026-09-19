@@ -203,4 +203,3 @@ def detect_available_configs(
             result += available
 
     return result
-

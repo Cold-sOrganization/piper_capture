@@ -190,4 +190,3 @@ class Tokenizer:
             )
 
         self.read()
-

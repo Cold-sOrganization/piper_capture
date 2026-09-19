@@ -382,4 +382,3 @@ class IBackend(_objfinalizer.AutoFinalizedObject):
         r"""Re-attach an interface's kernel driver, which was previously
         detached using detach_kernel_driver()."""
         _not_implemented(self.attach_kernel_driver)
-

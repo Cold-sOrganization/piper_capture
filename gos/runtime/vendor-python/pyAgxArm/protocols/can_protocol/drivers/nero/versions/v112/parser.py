@@ -229,4 +229,3 @@ class Parser(V111Parser):
             }
         )
         return tx
-

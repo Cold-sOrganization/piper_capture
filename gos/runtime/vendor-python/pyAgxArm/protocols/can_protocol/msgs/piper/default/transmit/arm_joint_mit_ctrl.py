@@ -104,4 +104,3 @@ class ArmMsgJointMitCtrl6(ArmMsgJointMitCtrl):
     '''CAN ID:
         0x15F'''
     pass
-

@@ -53,4 +53,3 @@ from .mf4 import MF4Reader, MF4Writer
 from .printer import Printer
 from .sqlite import SqliteReader, SqliteWriter
 from .trc import TRCFileVersion, TRCReader, TRCWriter
-

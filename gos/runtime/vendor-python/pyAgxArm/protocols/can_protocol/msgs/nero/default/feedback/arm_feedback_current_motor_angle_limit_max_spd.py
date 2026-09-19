@@ -70,4 +70,3 @@ class ArmMsgFeedbackAllCurrentMotorAngleLimitMaxSpd(ArmMsgFeedbackAllCurrentMoto
     def __init__(self, 
                  joint_index: Literal[0, 1, 2, 3, 4, 5, 6, 7] = 0):
         super().__init__(joint_index)
-

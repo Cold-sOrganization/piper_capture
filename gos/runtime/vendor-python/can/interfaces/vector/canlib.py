@@ -1234,4 +1234,3 @@ def _hw_type(hw_type: int) -> Union[int, xldefine.XL_HardwareType]:
     except ValueError:
         LOG.warning(f'Unknown XL_HardwareType value "{hw_type}"')
         return hw_type
-

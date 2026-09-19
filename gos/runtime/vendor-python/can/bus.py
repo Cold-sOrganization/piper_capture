@@ -532,4 +532,3 @@ class _SelfRemovingCyclicTask(CyclicSendTaskABC, ABC):
 
     def stop(self, remove_task: bool = True) -> None:
         raise NotImplementedError()
-

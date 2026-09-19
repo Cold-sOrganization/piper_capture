@@ -81,4 +81,3 @@ def fk_from_mdh(
         t_acc, t_tmp = t_tmp, t_acc
 
     return T16_to_pose6(t_acc)
-

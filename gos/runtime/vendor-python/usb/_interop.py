@@ -98,4 +98,3 @@ def as_array(data=None):
         a = array.array('B')
         a.frombytes(data.encode('utf-8'))
         return a
-

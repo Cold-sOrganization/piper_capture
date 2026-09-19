@@ -14,4 +14,3 @@ class ArmMsgFeedbackFirmware(AttributeBase):
     def clear(self):
         self.data_seg = bytearray()
         self.data_concat = bytearray()
-

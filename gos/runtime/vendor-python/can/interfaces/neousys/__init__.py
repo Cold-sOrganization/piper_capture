@@ -6,4 +6,3 @@ __all__ = [
 ]
 
 from can.interfaces.neousys.neousys import NeousysBus
-

@@ -78,4 +78,3 @@ class ArmDriverInterface(ABC):
     @abstractmethod
     def electronic_emergency_stop(self):
         ...
-

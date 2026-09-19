@@ -585,4 +585,3 @@ class Driver:
             timeout=timeout,
             stamp_key="agx_gripper_set_teaching_pendant_param",
         )
-

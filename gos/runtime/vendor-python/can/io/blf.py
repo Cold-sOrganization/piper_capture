@@ -589,4 +589,3 @@ class BLFWriter(FileIOMessageWriter):
         else:
             LOG.error("Could not write BLF header since file is not seekable")
         super().stop()
-

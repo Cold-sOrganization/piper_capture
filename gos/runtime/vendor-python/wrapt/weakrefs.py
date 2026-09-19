@@ -96,4 +96,3 @@ class WeakFunctionProxy(ObjectProxy):
             return self.__wrapped__(*args, **kwargs)
 
         return function.__get__(instance, type(instance))(*args, **kwargs)
-

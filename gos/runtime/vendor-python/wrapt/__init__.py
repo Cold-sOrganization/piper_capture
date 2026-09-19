@@ -28,4 +28,3 @@ from inspect import getcallargs
 # bundled implementation here in case any user of wrapt was also needing it.
 
 from .arguments import formatargspec
-

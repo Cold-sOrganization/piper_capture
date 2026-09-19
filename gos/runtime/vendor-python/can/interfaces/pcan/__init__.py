@@ -9,4 +9,3 @@ __all__ = [
 ]
 
 from can.interfaces.pcan.pcan import PcanBus, PcanError
-

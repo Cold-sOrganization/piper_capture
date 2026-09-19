@@ -356,4 +356,3 @@ while True:
 #     robot.set_cpv_cv(i, 3.0)
 #     robot.move_cpv_pos(i, -0.2)
 # wait_motion_done(robot, timeout=1)
-

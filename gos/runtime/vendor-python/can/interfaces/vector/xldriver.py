@@ -291,4 +291,3 @@ xlFlushReceiveQueue = _xlapi_dll.xlFlushReceiveQueue
 xlFlushReceiveQueue.argtypes = [xlclass.XLportHandle]
 xlFlushReceiveQueue.restype = xlclass.XLstatus
 xlFlushReceiveQueue.errcheck = check_status_operation
-

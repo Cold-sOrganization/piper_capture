@@ -29,4 +29,3 @@ CAN_MAX_DLEN = 8
 
 # CAN ID length
 CAN_IDLEN = 4
-

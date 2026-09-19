@@ -69,4 +69,3 @@ class ArmMsgMotorAngleLimitMaxSpdSet(AttributeBase):
         self.max_angle_limit = max_angle_limit
         self.min_angle_limit = min_angle_limit
         self.max_joint_spd = max_joint_spd
-

@@ -58,4 +58,3 @@ class ArmMsgSearchMotorMaxAngleSpdAccLimit(AttributeBase):
             raise ValueError(f"'search_content' Value {search_content} out of range [0x01, 0x02]")
         self.joint_index = joint_index
         self.search_content = search_content
-

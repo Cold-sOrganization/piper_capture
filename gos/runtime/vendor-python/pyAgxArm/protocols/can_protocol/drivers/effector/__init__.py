@@ -9,4 +9,3 @@ __all__ = [
     "Revo2ProDriverDefault",
     "Revo2TouchDriverDefault",
 ]
-

@@ -10,4 +10,3 @@ __all__ = [
     'NeroFW',
     'resolve_firmware_profile',
 ]
-

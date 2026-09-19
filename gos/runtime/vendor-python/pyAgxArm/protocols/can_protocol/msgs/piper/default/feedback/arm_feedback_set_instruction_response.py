@@ -68,4 +68,3 @@ class ArmMsgFeedbackRespSetInstruction(AttributeBase):
     def clear(self):
         self.instruction_index = None
         self.is_set_zero_successfully = None
-

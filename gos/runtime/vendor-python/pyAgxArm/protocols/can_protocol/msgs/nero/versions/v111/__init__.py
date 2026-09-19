@@ -9,4 +9,3 @@ __all__ = [
     'ArmMsgFeedbackStatusV111',
     'ArmMsgModeCtrlV111',
 ]
-

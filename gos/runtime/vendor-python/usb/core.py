@@ -1333,4 +1333,3 @@ def show_devices(verbose=False, **kwargs):
             strings += "%s\n\n" % str(device)
 
     return _DescriptorInfo(strings)
-

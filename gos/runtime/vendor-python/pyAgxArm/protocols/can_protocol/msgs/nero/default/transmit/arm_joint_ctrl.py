@@ -56,4 +56,3 @@ class ArmMsgJointCtrl7(AttributeBase):
     def __init__(self, 
                  joint_7: int = 0):
         self.joint_7 = joint_7
-

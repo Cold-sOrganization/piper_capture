@@ -6,4 +6,3 @@ from ....piper.default import ArmMsgCPVSettingsAndQueries
 class ArmMsgCPVSettingsAndQueries7(ArmMsgCPVSettingsAndQueries):
     '''CAN ID:
         0x187'''
-

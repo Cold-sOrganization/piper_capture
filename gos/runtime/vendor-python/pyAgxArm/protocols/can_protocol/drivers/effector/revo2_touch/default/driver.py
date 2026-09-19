@@ -129,4 +129,3 @@ class Driver(Revo2ProDriver):
             hand.touch_sensor_calibrate(0b11111)
         """
         self.run_sdk(self.client.touch_sensor_calibrate, bits)
-

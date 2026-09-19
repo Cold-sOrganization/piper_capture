@@ -498,4 +498,3 @@ class NeoViBus(BusABC):
             del self.message_receipts[receipt_key]
             if not got_receipt:
                 raise CanTimeoutError("Transmit timeout")
-

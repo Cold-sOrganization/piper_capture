@@ -215,4 +215,3 @@ class CANalystIIBus(BusABC):
         for channel in self.channels:
             self.device.stop(channel)
         self.device = None
-

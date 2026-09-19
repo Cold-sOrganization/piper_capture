@@ -57,4 +57,3 @@ class ArmMsgMotorEnableDisableConfig(ArmMsgMotorEnableDisableConfigBase):
                  joint_index: Literal[1, 2, 3, 4, 5, 6, 7, 8, 0xFF] = 0xFF,
                  enable_flag: Literal[0x01, 0x02] = 0x01):
         super().__init__(joint_index, enable_flag)
-

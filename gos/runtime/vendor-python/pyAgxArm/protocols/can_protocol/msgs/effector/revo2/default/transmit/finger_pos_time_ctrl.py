@@ -64,4 +64,3 @@ class FingerPosTimeCtrl(AttributeBase):
 
 
 __all__ = ["FingerPosTimeCtrl"]
-

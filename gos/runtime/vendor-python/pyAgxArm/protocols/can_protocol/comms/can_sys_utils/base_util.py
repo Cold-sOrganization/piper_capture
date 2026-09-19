@@ -11,4 +11,3 @@ class CanSystemInfoBase(ABC):
 
     @abstractmethod
     def get_bitrate(channel: str) -> Optional[int]: ...
-

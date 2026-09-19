@@ -204,4 +204,3 @@ class Usb2CanAbstractionLayer:
     def get_vendor_string(self):
         with error_check("Failed to get vendor string"):
             return self.__m_dllBasic.CanalGetVendorString()
-

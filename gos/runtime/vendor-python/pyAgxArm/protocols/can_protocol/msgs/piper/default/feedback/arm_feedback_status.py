@@ -412,4 +412,3 @@ class ArmMsgFeedbackStatus(AttributeBase):
         self.err_status.joint_4_angle_limit = bool(value & (1 << 11))
         self.err_status.joint_5_angle_limit = bool(value & (1 << 12))
         self.err_status.joint_6_angle_limit = bool(value & (1 << 13))
-

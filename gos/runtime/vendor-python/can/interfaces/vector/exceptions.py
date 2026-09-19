@@ -26,4 +26,3 @@ class VectorOperationError(VectorError, CanOperationError):
     @staticmethod
     def from_generic(error: VectorError) -> "VectorOperationError":
         return VectorOperationError(*error._args)
-

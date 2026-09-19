@@ -62,4 +62,3 @@ class ArmMsgMotorAngleLimitMaxSpdSet(ArmMsgMotorAngleLimitMaxSpdSetBase):
                  min_angle_limit: int = 0x7FFF,
                  max_joint_spd: int = 0x7FFF):
         super().__init__(joint_index, max_angle_limit, min_angle_limit, max_joint_spd)
-

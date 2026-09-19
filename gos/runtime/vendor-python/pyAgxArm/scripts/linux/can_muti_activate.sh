@@ -186,4 +186,3 @@ fi
 if [ "$FAILED_COUNT" -gt 0 ]; then
     echo "[RESULT]: 🚫 $FAILED_COUNT expected CAN interfaces failed to activate or were not found."
 fi
-

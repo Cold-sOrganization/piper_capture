@@ -71,4 +71,3 @@ __all__ = [
     'ArmMsgFeedbackCPVResponse5',
     'ArmMsgFeedbackCPVResponse6',
 ]
-

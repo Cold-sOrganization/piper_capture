@@ -410,4 +410,3 @@ class NumericCodec():
         """
         fmt = '>' if byteorder == 'big' else '<'
         return bytearray(struct.pack(fmt + 'd', double_data))
-

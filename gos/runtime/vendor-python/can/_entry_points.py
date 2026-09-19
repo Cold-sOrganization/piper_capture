@@ -32,4 +32,3 @@ else:
             _EntryPoint(ep.name, *ep.value.split(":", maxsplit=1))
             for ep in entry_points().get(group, [])
         ]
-

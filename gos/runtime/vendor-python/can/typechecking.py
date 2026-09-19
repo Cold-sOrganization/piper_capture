@@ -67,4 +67,3 @@ class BitTimingFdDict(typing.TypedDict):
     data_tseg1: int
     data_tseg2: int
     data_sjw: int
-

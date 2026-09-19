@@ -482,4 +482,3 @@ class MF4Reader(BinaryIOMessageReader):
     def stop(self) -> None:
         self._mdf.close()
         super().stop()
-

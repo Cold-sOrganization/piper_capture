@@ -106,4 +106,3 @@ class ELFFile:
             self._f.seek(data[self._p_idx[1]])
             return os.fsdecode(self._f.read(data[self._p_idx[2]])).strip("\0")
         return None
-

@@ -44,4 +44,3 @@ class FeedbackFingerPos(AttributeBase):
         self.middle_finger = middle_finger
         self.ring_finger = ring_finger
         self.pinky_finger = pinky_finger
-

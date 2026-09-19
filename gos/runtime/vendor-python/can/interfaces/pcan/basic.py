@@ -1086,4 +1086,3 @@ class PCANBasic:
         except:
             logger.error("Exception on PCANBasic.LookUpChannel")
             raise
-

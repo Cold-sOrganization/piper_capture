@@ -84,4 +84,3 @@ class ArmMsgFeedbackGripper(AttributeBase):
 
 
 __all__ = ["ArmMsgFeedbackGripper", "GripperFocStatus"]
-

@@ -415,4 +415,3 @@ class GeneralPurposeUdpMulticastBus:
             self._socket.close()
         except OSError as exception:
             log.error("could not close IP socket: %s", exception)
-

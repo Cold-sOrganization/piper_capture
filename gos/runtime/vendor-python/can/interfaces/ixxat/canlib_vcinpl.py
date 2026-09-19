@@ -996,4 +996,3 @@ def _detect_available_configs() -> List[AutoDetectedConfig]:
         pass  # _canlib is None in the CI tests -> return a blank list
 
     return config_list
-

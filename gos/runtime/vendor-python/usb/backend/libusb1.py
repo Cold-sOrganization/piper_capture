@@ -969,4 +969,3 @@ def get_backend(find_library=None):
     except Exception:
         _logger.error('Error loading libusb 1.0 backend', exc_info=True)
         return None
-

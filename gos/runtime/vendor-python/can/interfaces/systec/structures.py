@@ -470,4 +470,3 @@ ConnectControlFktEx = FUNCTYPE(None, DWORD, DWORD, LPVOID)
 EnumCallback = FUNCTYPE(
     None, DWORD, BOOL, POINTER(HardwareInfoEx), POINTER(HardwareInitInfo), LPVOID
 )
-

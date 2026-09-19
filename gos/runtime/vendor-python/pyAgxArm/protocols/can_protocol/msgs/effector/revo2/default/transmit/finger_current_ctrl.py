@@ -53,4 +53,3 @@ class FingerCurrentCtrl(AttributeBase):
 
 
 __all__ = ["FingerCurrentCtrl"]
-
